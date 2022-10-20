@@ -1,0 +1,301 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BankLibrary_Cheng3001/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/BankLibrary_Cheng3001.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BankLibrary_Cheng3001.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "ClassLibrary_Cheng3001/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ClassLibrary_Cheng3001.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassLibrary_Cheng3001.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "ColorTheme_Cheng3001/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ColorTheme_Cheng3001.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ColorTheme_Cheng3001.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "CreateFile_TextAndByte_Cheng3001/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "BankLibrary_Cheng3001": "1.0.0",
+          "ClassLibrary_Cheng3001": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CreateFile_TextAndByte_Cheng3001.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CreateFile_TextAndByte_Cheng3001.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "CreditInquirty_TextAndByte_Cheng3001/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "BankLibrary_Cheng3001": "1.0.0",
+          "ClassLibrary_Cheng3001": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CreditInquirty_TextAndByte_Cheng3001.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CreditInquirty_TextAndByte_Cheng3001.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "LotteryNumber_Cheng3001/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/LotteryNumber_Cheng3001.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LotteryNumber_Cheng3001.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "ReadSequentialAccessFile_TextAndByte_Cheng3001/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "BankLibrary_Cheng3001": "1.0.0",
+          "ClassLibrary_Cheng3001": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ReadSequentialAccessFile_TextAndByte_Cheng3001.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ReadSequentialAccessFile_TextAndByte_Cheng3001.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "WinFormsApp1UsingLINQ_Cheng3001_220413/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "ClassLibrary_Cheng3001": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/WinFormsApp1UsingLINQ_Cheng3001_220413.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WinFormsApp1UsingLINQ_Cheng3001_220413.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "WorkerUsingLINQ_Cheng3001/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "ClassLibrary_Cheng3001": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/WorkerUsingLINQ_Cheng3001.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WorkerUsingLINQ_Cheng3001.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "BankLibrary_Cheng3001/1.0.0": {
+      "type": "project",
+      "path": "../220504 FileAndStream/WinFormsApp4Bank_Cheng3001_220504/BankLibrary_Cheng3001.csproj",
+      "msbuildProject": "../220504 FileAndStream/WinFormsApp4Bank_Cheng3001_220504/BankLibrary_Cheng3001.csproj"
+    },
+    "ClassLibrary_Cheng3001/1.0.0": {
+      "type": "project",
+      "path": "../Midterm_2_Cheng3001/Midterm_2_Cheng3001/ClassLibrary_Cheng3001/ClassLibrary_Cheng3001.csproj",
+      "msbuildProject": "../Midterm_2_Cheng3001/Midterm_2_Cheng3001/ClassLibrary_Cheng3001/ClassLibrary_Cheng3001.csproj"
+    },
+    "ColorTheme_Cheng3001/1.0.0": {
+      "type": "project",
+      "path": "../ColorTheme_Cheng3001/ColorTheme_Cheng3001.csproj",
+      "msbuildProject": "../ColorTheme_Cheng3001/ColorTheme_Cheng3001.csproj"
+    },
+    "CreateFile_TextAndByte_Cheng3001/1.0.0": {
+      "type": "project",
+      "path": "../220504 FileAndStream/CreateFile_TextAndByte_Cheng3001/CreateFile_TextAndByte_Cheng3001.csproj",
+      "msbuildProject": "../220504 FileAndStream/CreateFile_TextAndByte_Cheng3001/CreateFile_TextAndByte_Cheng3001.csproj"
+    },
+    "CreditInquirty_TextAndByte_Cheng3001/1.0.0": {
+      "type": "project",
+      "path": "../220504 FileAndStream/CreditInquirty_TextAndByte_Cheng3001/CreditInquirty_TextAndByte_Cheng3001.csproj",
+      "msbuildProject": "../220504 FileAndStream/CreditInquirty_TextAndByte_Cheng3001/CreditInquirty_TextAndByte_Cheng3001.csproj"
+    },
+    "LotteryNumber_Cheng3001/1.0.0": {
+      "type": "project",
+      "path": "../LotteryNumber_Cheng3001/LotteryNumber_Cheng3001.csproj",
+      "msbuildProject": "../LotteryNumber_Cheng3001/LotteryNumber_Cheng3001.csproj"
+    },
+    "ReadSequentialAccessFile_TextAndByte_Cheng3001/1.0.0": {
+      "type": "project",
+      "path": "../220504 FileAndStream/ReadSequentialAccessFile_TextAndByte_Cheng3001/ReadSequentialAccessFile_TextAndByte_Cheng3001.csproj",
+      "msbuildProject": "../220504 FileAndStream/ReadSequentialAccessFile_TextAndByte_Cheng3001/ReadSequentialAccessFile_TextAndByte_Cheng3001.csproj"
+    },
+    "WinFormsApp1UsingLINQ_Cheng3001_220413/1.0.0": {
+      "type": "project",
+      "path": "../220413 WinFormsApp1UsingLINQ_Cheng3001/WinFormsApp1UsingLINQ_Cheng3001_220413.csproj",
+      "msbuildProject": "../220413 WinFormsApp1UsingLINQ_Cheng3001/WinFormsApp1UsingLINQ_Cheng3001_220413.csproj"
+    },
+    "WorkerUsingLINQ_Cheng3001/1.0.0": {
+      "type": "project",
+      "path": "../Midterm_2_Cheng3001/Midterm_2_Cheng3001/220413 WinFormsApp1UsingLINQ_Cheng3001/WorkerUsingLINQ_Cheng3001.csproj",
+      "msbuildProject": "../Midterm_2_Cheng3001/Midterm_2_Cheng3001/220413 WinFormsApp1UsingLINQ_Cheng3001/WorkerUsingLINQ_Cheng3001.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "BankLibrary_Cheng3001 >= 1.0.0",
+      "ClassLibrary_Cheng3001 >= 1.0.0",
+      "ColorTheme_Cheng3001 >= 1.0.0",
+      "CreateFile_TextAndByte_Cheng3001 >= 1.0.0",
+      "CreditInquirty_TextAndByte_Cheng3001 >= 1.0.0",
+      "LotteryNumber_Cheng3001 >= 1.0.0",
+      "ReadSequentialAccessFile_TextAndByte_Cheng3001 >= 1.0.0",
+      "WinFormsApp1UsingLINQ_Cheng3001_220413 >= 1.0.0",
+      "WorkerUsingLINQ_Cheng3001 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\alice\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220608 WinFormAppForAllProjects_Cheng3001\\WinFormAppForAllProjectsUsingMDI_Cheng3001_220608.csproj",
+      "projectName": "WinFormAppForAllProjectsUsingMDI_Cheng3001_220608",
+      "projectPath": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220608 WinFormAppForAllProjects_Cheng3001\\WinFormAppForAllProjectsUsingMDI_Cheng3001_220608.csproj",
+      "packagesPath": "C:\\Users\\alice\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220608 WinFormAppForAllProjects_Cheng3001\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\alice\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220413 WinFormsApp1UsingLINQ_Cheng3001\\WinFormsApp1UsingLINQ_Cheng3001_220413.csproj": {
+              "projectPath": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220413 WinFormsApp1UsingLINQ_Cheng3001\\WinFormsApp1UsingLINQ_Cheng3001_220413.csproj"
+            },
+            "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220504 FileAndStream\\CreateFile_TextAndByte_Cheng3001\\CreateFile_TextAndByte_Cheng3001.csproj": {
+              "projectPath": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220504 FileAndStream\\CreateFile_TextAndByte_Cheng3001\\CreateFile_TextAndByte_Cheng3001.csproj"
+            },
+            "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220504 FileAndStream\\CreditInquirty_TextAndByte_Cheng3001\\CreditInquirty_TextAndByte_Cheng3001.csproj": {
+              "projectPath": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220504 FileAndStream\\CreditInquirty_TextAndByte_Cheng3001\\CreditInquirty_TextAndByte_Cheng3001.csproj"
+            },
+            "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220504 FileAndStream\\ReadSequentialAccessFile_TextAndByte_Cheng3001\\ReadSequentialAccessFile_TextAndByte_Cheng3001.csproj": {
+              "projectPath": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220504 FileAndStream\\ReadSequentialAccessFile_TextAndByte_Cheng3001\\ReadSequentialAccessFile_TextAndByte_Cheng3001.csproj"
+            },
+            "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220504 FileAndStream\\WinFormsApp4Bank_Cheng3001_220504\\BankLibrary_Cheng3001.csproj": {
+              "projectPath": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220504 FileAndStream\\WinFormsApp4Bank_Cheng3001_220504\\BankLibrary_Cheng3001.csproj"
+            },
+            "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\ClassLibrary_Cheng3001\\ClassLibrary_Cheng3001.csproj": {
+              "projectPath": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\ClassLibrary_Cheng3001\\ClassLibrary_Cheng3001.csproj"
+            },
+            "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\ColorTheme_Cheng3001\\ColorTheme_Cheng3001.csproj": {
+              "projectPath": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\ColorTheme_Cheng3001\\ColorTheme_Cheng3001.csproj"
+            },
+            "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\LotteryNumber_Cheng3001\\LotteryNumber_Cheng3001.csproj": {
+              "projectPath": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\LotteryNumber_Cheng3001\\LotteryNumber_Cheng3001.csproj"
+            },
+            "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\Midterm_2_Cheng3001\\Midterm_2_Cheng3001\\220413 WinFormsApp1UsingLINQ_Cheng3001\\WorkerUsingLINQ_Cheng3001.csproj": {
+              "projectPath": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\Midterm_2_Cheng3001\\Midterm_2_Cheng3001\\220413 WinFormsApp1UsingLINQ_Cheng3001\\WorkerUsingLINQ_Cheng3001.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.22, 3.1.22]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

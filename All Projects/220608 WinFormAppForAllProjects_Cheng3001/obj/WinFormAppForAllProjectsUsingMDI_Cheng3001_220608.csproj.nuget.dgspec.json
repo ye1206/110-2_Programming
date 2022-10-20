@@ -1,0 +1,790 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220608 WinFormAppForAllProjects_Cheng3001\\WinFormAppForAllProjectsUsingMDI_Cheng3001_220608.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220413 WinFormsApp1UsingLINQ_Cheng3001\\WinFormsApp1UsingLINQ_Cheng3001_220413.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220413 WinFormsApp1UsingLINQ_Cheng3001\\WinFormsApp1UsingLINQ_Cheng3001_220413.csproj",
+        "projectName": "WinFormsApp1UsingLINQ_Cheng3001_220413",
+        "projectPath": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220413 WinFormsApp1UsingLINQ_Cheng3001\\WinFormsApp1UsingLINQ_Cheng3001_220413.csproj",
+        "packagesPath": "C:\\Users\\alice\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220413 WinFormsApp1UsingLINQ_Cheng3001\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alice\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\ClassLibrary_Cheng3001\\ClassLibrary_Cheng3001.csproj": {
+                "projectPath": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\ClassLibrary_Cheng3001\\ClassLibrary_Cheng3001.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.22, 3.1.22]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220504 FileAndStream\\CreateFile_TextAndByte_Cheng3001\\CreateFile_TextAndByte_Cheng3001.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220504 FileAndStream\\CreateFile_TextAndByte_Cheng3001\\CreateFile_TextAndByte_Cheng3001.csproj",
+        "projectName": "CreateFile_TextAndByte_Cheng3001",
+        "projectPath": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220504 FileAndStream\\CreateFile_TextAndByte_Cheng3001\\CreateFile_TextAndByte_Cheng3001.csproj",
+        "packagesPath": "C:\\Users\\alice\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220504 FileAndStream\\CreateFile_TextAndByte_Cheng3001\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alice\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220504 FileAndStream\\WinFormsApp4Bank_Cheng3001_220504\\BankLibrary_Cheng3001.csproj": {
+                "projectPath": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220504 FileAndStream\\WinFormsApp4Bank_Cheng3001_220504\\BankLibrary_Cheng3001.csproj"
+              },
+              "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\ClassLibrary_Cheng3001\\ClassLibrary_Cheng3001.csproj": {
+                "projectPath": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\ClassLibrary_Cheng3001\\ClassLibrary_Cheng3001.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.22, 3.1.22]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220504 FileAndStream\\CreditInquirty_TextAndByte_Cheng3001\\CreditInquirty_TextAndByte_Cheng3001.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220504 FileAndStream\\CreditInquirty_TextAndByte_Cheng3001\\CreditInquirty_TextAndByte_Cheng3001.csproj",
+        "projectName": "CreditInquirty_TextAndByte_Cheng3001",
+        "projectPath": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220504 FileAndStream\\CreditInquirty_TextAndByte_Cheng3001\\CreditInquirty_TextAndByte_Cheng3001.csproj",
+        "packagesPath": "C:\\Users\\alice\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220504 FileAndStream\\CreditInquirty_TextAndByte_Cheng3001\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alice\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220504 FileAndStream\\WinFormsApp4Bank_Cheng3001_220504\\BankLibrary_Cheng3001.csproj": {
+                "projectPath": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220504 FileAndStream\\WinFormsApp4Bank_Cheng3001_220504\\BankLibrary_Cheng3001.csproj"
+              },
+              "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\ClassLibrary_Cheng3001\\ClassLibrary_Cheng3001.csproj": {
+                "projectPath": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\ClassLibrary_Cheng3001\\ClassLibrary_Cheng3001.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.22, 3.1.22]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220504 FileAndStream\\ReadSequentialAccessFile_TextAndByte_Cheng3001\\ReadSequentialAccessFile_TextAndByte_Cheng3001.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220504 FileAndStream\\ReadSequentialAccessFile_TextAndByte_Cheng3001\\ReadSequentialAccessFile_TextAndByte_Cheng3001.csproj",
+        "projectName": "ReadSequentialAccessFile_TextAndByte_Cheng3001",
+        "projectPath": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220504 FileAndStream\\ReadSequentialAccessFile_TextAndByte_Cheng3001\\ReadSequentialAccessFile_TextAndByte_Cheng3001.csproj",
+        "packagesPath": "C:\\Users\\alice\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220504 FileAndStream\\ReadSequentialAccessFile_TextAndByte_Cheng3001\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alice\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220504 FileAndStream\\WinFormsApp4Bank_Cheng3001_220504\\BankLibrary_Cheng3001.csproj": {
+                "projectPath": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220504 FileAndStream\\WinFormsApp4Bank_Cheng3001_220504\\BankLibrary_Cheng3001.csproj"
+              },
+              "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\ClassLibrary_Cheng3001\\ClassLibrary_Cheng3001.csproj": {
+                "projectPath": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\ClassLibrary_Cheng3001\\ClassLibrary_Cheng3001.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.22, 3.1.22]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220504 FileAndStream\\WinFormsApp4Bank_Cheng3001_220504\\BankLibrary_Cheng3001.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220504 FileAndStream\\WinFormsApp4Bank_Cheng3001_220504\\BankLibrary_Cheng3001.csproj",
+        "projectName": "BankLibrary_Cheng3001",
+        "projectPath": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220504 FileAndStream\\WinFormsApp4Bank_Cheng3001_220504\\BankLibrary_Cheng3001.csproj",
+        "packagesPath": "C:\\Users\\alice\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220504 FileAndStream\\WinFormsApp4Bank_Cheng3001_220504\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alice\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.22, 3.1.22]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220608 WinFormAppForAllProjects_Cheng3001\\WinFormAppForAllProjectsUsingMDI_Cheng3001_220608.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220608 WinFormAppForAllProjects_Cheng3001\\WinFormAppForAllProjectsUsingMDI_Cheng3001_220608.csproj",
+        "projectName": "WinFormAppForAllProjectsUsingMDI_Cheng3001_220608",
+        "projectPath": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220608 WinFormAppForAllProjects_Cheng3001\\WinFormAppForAllProjectsUsingMDI_Cheng3001_220608.csproj",
+        "packagesPath": "C:\\Users\\alice\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220608 WinFormAppForAllProjects_Cheng3001\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alice\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220413 WinFormsApp1UsingLINQ_Cheng3001\\WinFormsApp1UsingLINQ_Cheng3001_220413.csproj": {
+                "projectPath": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220413 WinFormsApp1UsingLINQ_Cheng3001\\WinFormsApp1UsingLINQ_Cheng3001_220413.csproj"
+              },
+              "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220504 FileAndStream\\CreateFile_TextAndByte_Cheng3001\\CreateFile_TextAndByte_Cheng3001.csproj": {
+                "projectPath": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220504 FileAndStream\\CreateFile_TextAndByte_Cheng3001\\CreateFile_TextAndByte_Cheng3001.csproj"
+              },
+              "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220504 FileAndStream\\CreditInquirty_TextAndByte_Cheng3001\\CreditInquirty_TextAndByte_Cheng3001.csproj": {
+                "projectPath": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220504 FileAndStream\\CreditInquirty_TextAndByte_Cheng3001\\CreditInquirty_TextAndByte_Cheng3001.csproj"
+              },
+              "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220504 FileAndStream\\ReadSequentialAccessFile_TextAndByte_Cheng3001\\ReadSequentialAccessFile_TextAndByte_Cheng3001.csproj": {
+                "projectPath": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220504 FileAndStream\\ReadSequentialAccessFile_TextAndByte_Cheng3001\\ReadSequentialAccessFile_TextAndByte_Cheng3001.csproj"
+              },
+              "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220504 FileAndStream\\WinFormsApp4Bank_Cheng3001_220504\\BankLibrary_Cheng3001.csproj": {
+                "projectPath": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220504 FileAndStream\\WinFormsApp4Bank_Cheng3001_220504\\BankLibrary_Cheng3001.csproj"
+              },
+              "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\ClassLibrary_Cheng3001\\ClassLibrary_Cheng3001.csproj": {
+                "projectPath": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\ClassLibrary_Cheng3001\\ClassLibrary_Cheng3001.csproj"
+              },
+              "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\ColorTheme_Cheng3001\\ColorTheme_Cheng3001.csproj": {
+                "projectPath": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\ColorTheme_Cheng3001\\ColorTheme_Cheng3001.csproj"
+              },
+              "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\LotteryNumber_Cheng3001\\LotteryNumber_Cheng3001.csproj": {
+                "projectPath": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\LotteryNumber_Cheng3001\\LotteryNumber_Cheng3001.csproj"
+              },
+              "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\Midterm_2_Cheng3001\\Midterm_2_Cheng3001\\220413 WinFormsApp1UsingLINQ_Cheng3001\\WorkerUsingLINQ_Cheng3001.csproj": {
+                "projectPath": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\Midterm_2_Cheng3001\\Midterm_2_Cheng3001\\220413 WinFormsApp1UsingLINQ_Cheng3001\\WorkerUsingLINQ_Cheng3001.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.22, 3.1.22]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\ClassLibrary_Cheng3001\\ClassLibrary_Cheng3001.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\ClassLibrary_Cheng3001\\ClassLibrary_Cheng3001.csproj",
+        "projectName": "ClassLibrary_Cheng3001",
+        "projectPath": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\ClassLibrary_Cheng3001\\ClassLibrary_Cheng3001.csproj",
+        "packagesPath": "C:\\Users\\alice\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\ClassLibrary_Cheng3001\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alice\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\ColorTheme_Cheng3001\\ColorTheme_Cheng3001.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\ColorTheme_Cheng3001\\ColorTheme_Cheng3001.csproj",
+        "projectName": "ColorTheme_Cheng3001",
+        "projectPath": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\ColorTheme_Cheng3001\\ColorTheme_Cheng3001.csproj",
+        "packagesPath": "C:\\Users\\alice\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\ColorTheme_Cheng3001\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alice\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.22, 3.1.22]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\LotteryNumber_Cheng3001\\LotteryNumber_Cheng3001.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\LotteryNumber_Cheng3001\\LotteryNumber_Cheng3001.csproj",
+        "projectName": "LotteryNumber_Cheng3001",
+        "projectPath": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\LotteryNumber_Cheng3001\\LotteryNumber_Cheng3001.csproj",
+        "packagesPath": "C:\\Users\\alice\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\LotteryNumber_Cheng3001\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alice\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.22, 3.1.22]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\Midterm_2_Cheng3001\\Midterm_2_Cheng3001\\220413 WinFormsApp1UsingLINQ_Cheng3001\\WorkerUsingLINQ_Cheng3001.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\Midterm_2_Cheng3001\\Midterm_2_Cheng3001\\220413 WinFormsApp1UsingLINQ_Cheng3001\\WorkerUsingLINQ_Cheng3001.csproj",
+        "projectName": "WorkerUsingLINQ_Cheng3001",
+        "projectPath": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\Midterm_2_Cheng3001\\Midterm_2_Cheng3001\\220413 WinFormsApp1UsingLINQ_Cheng3001\\WorkerUsingLINQ_Cheng3001.csproj",
+        "packagesPath": "C:\\Users\\alice\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\Midterm_2_Cheng3001\\Midterm_2_Cheng3001\\220413 WinFormsApp1UsingLINQ_Cheng3001\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alice\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\Midterm_2_Cheng3001\\Midterm_2_Cheng3001\\ClassLibrary_Cheng3001\\ClassLibrary_Cheng3001.csproj": {
+                "projectPath": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\Midterm_2_Cheng3001\\Midterm_2_Cheng3001\\ClassLibrary_Cheng3001\\ClassLibrary_Cheng3001.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.22, 3.1.22]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\Midterm_2_Cheng3001\\Midterm_2_Cheng3001\\ClassLibrary_Cheng3001\\ClassLibrary_Cheng3001.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\Midterm_2_Cheng3001\\Midterm_2_Cheng3001\\ClassLibrary_Cheng3001\\ClassLibrary_Cheng3001.csproj",
+        "projectName": "ClassLibrary_Cheng3001",
+        "projectPath": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\Midterm_2_Cheng3001\\Midterm_2_Cheng3001\\ClassLibrary_Cheng3001\\ClassLibrary_Cheng3001.csproj",
+        "packagesPath": "C:\\Users\\alice\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\Midterm_2_Cheng3001\\Midterm_2_Cheng3001\\ClassLibrary_Cheng3001\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alice\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

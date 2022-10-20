@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lVh3FBfbdAmKNsRicfzaBQtGHKH29eaUYz0lxx0eTIi+4HgW6OOuAgba7LDvk5ToLoxlVOmscfb4hc3+uGFMEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220608 WinFormAppForAllProjects_Cheng3001\\WinFormAppForAllProjectsUsingMDI_Cheng3001_220608.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alice\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

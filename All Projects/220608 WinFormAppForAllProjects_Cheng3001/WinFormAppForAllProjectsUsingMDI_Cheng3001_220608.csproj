@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\220413 WinFormsApp1UsingLINQ_Cheng3001\WinFormsApp1UsingLINQ_Cheng3001_220413.csproj" />
+    <ProjectReference Include="..\220504 FileAndStream\CreateFile_TextAndByte_Cheng3001\CreateFile_TextAndByte_Cheng3001.csproj" />
+    <ProjectReference Include="..\220504 FileAndStream\CreditInquirty_TextAndByte_Cheng3001\CreditInquirty_TextAndByte_Cheng3001.csproj" />
+    <ProjectReference Include="..\220504 FileAndStream\ReadSequentialAccessFile_TextAndByte_Cheng3001\ReadSequentialAccessFile_TextAndByte_Cheng3001.csproj" />
+    <ProjectReference Include="..\220504 FileAndStream\WinFormsApp4Bank_Cheng3001_220504\BankLibrary_Cheng3001.csproj" />
+    <ProjectReference Include="..\ClassLibrary_Cheng3001\ClassLibrary_Cheng3001.csproj" />
+    <ProjectReference Include="..\ColorTheme_Cheng3001\ColorTheme_Cheng3001.csproj" />
+    <ProjectReference Include="..\LotteryNumber_Cheng3001\LotteryNumber_Cheng3001.csproj" />
+    <ProjectReference Include="..\Midterm_2_Cheng3001\Midterm_2_Cheng3001\220413 WinFormsApp1UsingLINQ_Cheng3001\WorkerUsingLINQ_Cheng3001.csproj" />
+  </ItemGroup>
+
+</Project>

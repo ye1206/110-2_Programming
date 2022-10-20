@@ -1,0 +1,92 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WinFormAppForAllProjectsUsingMDI_Cheng3001_220608/1.0.0": {
+        "dependencies": {
+          "BankLibrary_Cheng3001": "1.0.0",
+          "ClassLibrary_Cheng3001": "1.0.0",
+          "CreateFile_TextAndByte_Cheng3001": "1.0.0",
+          "CreditInquirty_TextAndByte_Cheng3001": "1.0.0",
+          "ReadSequentialAccessFile_TextAndByte_Cheng3001": "1.0.0"
+        },
+        "runtime": {
+          "WinFormAppForAllProjectsUsingMDI_Cheng3001_220608.dll": {}
+        }
+      },
+      "BankLibrary_Cheng3001/1.0.0": {
+        "runtime": {
+          "BankLibrary_Cheng3001.dll": {}
+        }
+      },
+      "ClassLibrary_Cheng3001/1.0.0": {
+        "runtime": {
+          "ClassLibrary_Cheng3001.dll": {}
+        }
+      },
+      "CreateFile_TextAndByte_Cheng3001/1.0.0": {
+        "dependencies": {
+          "BankLibrary_Cheng3001": "1.0.0",
+          "ClassLibrary_Cheng3001": "1.0.0"
+        },
+        "runtime": {
+          "CreateFile_TextAndByte_Cheng3001.dll": {}
+        }
+      },
+      "CreditInquirty_TextAndByte_Cheng3001/1.0.0": {
+        "dependencies": {
+          "BankLibrary_Cheng3001": "1.0.0",
+          "ClassLibrary_Cheng3001": "1.0.0"
+        },
+        "runtime": {
+          "CreditInquirty_TextAndByte_Cheng3001.dll": {}
+        }
+      },
+      "ReadSequentialAccessFile_TextAndByte_Cheng3001/1.0.0": {
+        "dependencies": {
+          "BankLibrary_Cheng3001": "1.0.0",
+          "ClassLibrary_Cheng3001": "1.0.0"
+        },
+        "runtime": {
+          "ReadSequentialAccessFile_TextAndByte_Cheng3001.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormAppForAllProjectsUsingMDI_Cheng3001_220608/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BankLibrary_Cheng3001/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibrary_Cheng3001/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CreateFile_TextAndByte_Cheng3001/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CreditInquirty_TextAndByte_Cheng3001/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ReadSequentialAccessFile_TextAndByte_Cheng3001/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
