@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "22lyieb3TKAUjidHjz3NmdRgzta4aceFfYwzdWwq/eqKVZsjvKnPOSSJzIfDH6rxLc2fufKVZcJQYDbUYLLRxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\LotteryNumber_Cheng3001\\LotteryNumber_Cheng3001.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alice\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
