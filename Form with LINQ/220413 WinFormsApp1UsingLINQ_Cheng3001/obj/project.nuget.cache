@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oiuW9xYnpbJvcurpch6teNNtkBl3rX1C66dlAqowlwjJiE10bvnbhR6KNOTbktg+zwWa/k/B5IVNeoJdNBSmgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alice\\Desktop\\Freshman\\110-2 程式設計\\Programming(II)\\220413 WinFormsApp1UsingLINQ_Cheng3001\\WinFormsApp1UsingLINQ_Cheng3001_220413.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alice\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
