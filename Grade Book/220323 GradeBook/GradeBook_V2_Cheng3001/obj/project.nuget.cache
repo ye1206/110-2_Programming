@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yF8M6EcffoDHpp2xgWB5yoPz2ajoTXuTGXg9DcfzoqBKulV5162fDXsgGhJaNLuRoYX9ya5N4YdSVlce75NIlA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alice\\Desktop\\Academic\\Freshman\\110-2 程式設計\\Programming(II)\\220323 GradeBook\\GradeBook_V2_Cheng3001\\GradeBook_V2_Cheng3001.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alice\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
