@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yFwltxmLtsTDkTlvs63DrzqDc/WE6wlarfP/dE88KFk4jCQ0H5C2V6oAHdIHYWImM/EKwUmANLJcszbY/vf/HQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alice\\Desktop\\Academic\\Freshman\\110-2 程式設計\\Programming(II)\\ColorTheme_Cheng3001\\ColorTheme_Cheng3001.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alice\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

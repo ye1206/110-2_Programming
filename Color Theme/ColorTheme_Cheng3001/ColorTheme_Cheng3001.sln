@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorTheme_Cheng3001", "ColorTheme_Cheng3001.csproj", "{8B302541-95AA-4285-99F0-14792ADDB143}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleColorMixture_Cheng3001", "SimpleColorMixture_Cheng3001\SimpleColorMixture_Cheng3001.csproj", "{292C3227-C22E-46B9-8AC7-C6CCE402F7D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B302541-95AA-4285-99F0-14792ADDB143}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B302541-95AA-4285-99F0-14792ADDB143}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B302541-95AA-4285-99F0-14792ADDB143}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B302541-95AA-4285-99F0-14792ADDB143}.Release|Any CPU.Build.0 = Release|Any CPU
+		{292C3227-C22E-46B9-8AC7-C6CCE402F7D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{292C3227-C22E-46B9-8AC7-C6CCE402F7D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{292C3227-C22E-46B9-8AC7-C6CCE402F7D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{292C3227-C22E-46B9-8AC7-C6CCE402F7D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C229039-0BD3-4CFA-B347-BC97A41DB5EC}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QTL364fIAsVBAR0pj+MyGKhd9E7JWI4jwmFfuMX6BPq4cRzuuLCrbcYc75IqnqYrnI/zS70Kl+dhYP5Re0jzKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alice\\Desktop\\Academic\\Freshman\\110-2 程式設計\\Programming(II)\\ColorTheme_Cheng3001\\SimpleColorMixture_Cheng3001\\SimpleColorMixture_Cheng3001.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alice\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

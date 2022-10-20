@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SimpleColorMixture_Cheng3001/1.0.0": {
+        "runtime": {
+          "SimpleColorMixture_Cheng3001.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SimpleColorMixture_Cheng3001/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
